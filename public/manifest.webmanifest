@@ -1,0 +1,10 @@
+{
+    "name": "Percetakan Midad Al-Ilmi - SIM Operasional",
+    "short_name": "Midad Al-Ilmi",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#0f172a",
+    "description": "Sistem Informasi Manajemen Operasional Percetakan Midad Al-Ilmi"
+}
+
